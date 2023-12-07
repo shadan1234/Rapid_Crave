@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106392290770",
+    "project_id": "wowo1-6450d",
+    "storage_bucket": "wowo1-6450d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106392290770:android:549c79855a895b6438740b",
+        "android_client_info": {
+          "package_name": "com.example.wow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7GiUXEcGDXqJ3KbHg4XCCdg3L_iNJ4Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
